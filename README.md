@@ -45,16 +45,14 @@ SAMPLE CODE SNIPPET
 
 ## Components
 
-| Component |                          Description                          |
-| --------- | :-----------------------------------------------------------: |
-| App       | This will make the initial data pull and include React Router |
-| Header    |          This will render the header include the nav          |
-| Footer    |          This will render the header include the nav          |
-| Hero      |             Landing page image on the landin page             |
-| Blog list |  Will render the complete lis of blog post from the API call  |
-| Idv. Blog |    When a user selects a post it will render on a new page    |
-
-Time frames are also vital in the development cycle. You have limited time to code all phases of the app. Your estimates can then be used to evaluate app possibilities based on the time needed and the actual time before the app must be submitted. It's always best to pad the time by a few hours to account for the unknown, adding an additional hour or two to each component to play it safe. Also, put a gif at the top of your Readme before you pitch, and you'll get a panda prize.
+| Component        |                             Description                             |
+| ---------------- | :-----------------------------------------------------------------: |
+| App              |    This will make the initial data pull and include React Router    |
+| Header           |             This will render the header include the nav             |
+| Footer           |             This will render the header include the nav             |
+| Hero             |                Landing page image on the landin page                |
+| List of Vehicles |     Will render the complete list of vehicles from the API call     |
+| Idv. Vehicle     | When a user selects a specific vehicle it will render on a new page |
 
 | Component             | Priority | Estimated Time | Actual Time |
 | --------------------- | :------: | :------------: | :---------: |
@@ -83,5 +81,5 @@ Time frames are also vital in the development cycle. You have limited time to co
 EXAMPLE OF CODE
 
 ```
-  
+
 ```
