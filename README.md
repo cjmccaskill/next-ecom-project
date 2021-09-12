@@ -7,7 +7,7 @@
 
 ## Project Description
 
-For this project, I am building out an ecommerce site (Exotic Auto Collection) using Next.js(front-end) and Contentful(API). The idea behind the project is to build a site for sell high end hard to find luxury/exotic vehicles. The site will have multiple pages for showcasing current inventory and coming soon vehicles for sale. Along with contact page for more details on a certain vehicle.
+For this project, I am building out an ecommerce site (Exotic Auto Collection) using Next.js(front-end) and Sanity(API). The idea behind the project is to build a site for sell high end hard to find luxury/exotic vehicles. The site will have multiple pages for showcasing current inventory and coming soon vehicles for sale. Along with contact page for more details on a certain vehicle.
 
 ## API
 
